@@ -1,0 +1,27 @@
+.brand-logo {
+    padding-left: 16px !important;
+}
+
+.products {
+    margin: 24px 48px 24px 48px;
+    padding: 12px 0px 12px 0px;
+}
+.productsBackgroundColor {
+    background-color: #FFFFFF !important;
+}
+/*
+nav {
+    background-color: #B0BEC5 !important;
+}
+*/
+.pricingSubHeader {
+    font-family: 'Libre Barcode 39 Text', cursive;
+}
+.divider {
+    margin-bottom: 24px !important;
+    margin-left: 280px !important;
+    margin-right: 280px !important;
+}
+.top-divider {
+    margin-top: 36px;
+}
